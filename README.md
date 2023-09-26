@@ -1,4 +1,4 @@
-# Project Name
+# Housing Project - One-variable and Multi-variable Linear Regression with Python and Scikit-Learn
 
 This project employs linear regression to predict Boston housing prices based on dataset analysis. It explores correlations, uses standardized data, and builds regression models. It provides insights into how features impact prices, aiding real estate analysis.
 
